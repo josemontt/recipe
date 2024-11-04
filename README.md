@@ -1,4 +1,6 @@
 # recipe
 Chilean Cazuela Recipe
-Este repositorio es para la receta de la cazuela
+
+This repository is for the recipe to make a cazuela. 
+The source can be found in the following link:
 https://www.tablespoon.com/recipes/chilean-cazuela
