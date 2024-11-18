@@ -6,10 +6,10 @@ line 2 changed remotely
 
 ### Working Files
 
-ingredients.md
-instructions.txt
-README.md
-recipe.jpg
+1. ingredients.md
+2. instructions.txt
+3. README.md
+4. recipe.jpg
 
 
 This repository is for the recipe to make a cazuela. 
