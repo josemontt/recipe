@@ -13,8 +13,7 @@ line 2 changed remotely
 
 The **cazuela** looks like that:
 
-![the chilean cazuela](/recipe.jpg)
-
+![the chilean cazuela](recipe.jpg)
 
 This repository is for the recipe to make a **cazuela**. 
 
