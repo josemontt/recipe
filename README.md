@@ -11,8 +11,13 @@ line 2 changed remotely
 3. README.md
 4. recipe.jpg
 
+The **cazuela** looks like that:
+
+![the chilean cazuela](/recipe.jpg)
+
 
 This repository is for the recipe to make a **cazuela**. 
+
 The source can be found in the following link:
 https://www.tablespoon.com/recipes/chilean-cazuela
 last line changed locally
