@@ -1,7 +1,16 @@
 ### This is a LOCAL change :)
 # recipe
 line 2 changed remotely
-Chilean Cazuela Recipe
+
+# Chilean Cazuela Recipe
+
+### Working Files
+
+ingredients.md
+instructions.txt
+README.md
+recipe.jpg
+
 
 This repository is for the recipe to make a cazuela. 
 The source can be found in the following link:
